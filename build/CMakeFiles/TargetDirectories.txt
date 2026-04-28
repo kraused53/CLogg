@@ -1,0 +1,4 @@
+C:/Users/Danny/Documents/Projects/CLogg/build/CMakeFiles/CLogg.dir
+C:/Users/Danny/Documents/Projects/CLogg/build/CMakeFiles/clogg_testing.dir
+C:/Users/Danny/Documents/Projects/CLogg/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Danny/Documents/Projects/CLogg/build/CMakeFiles/ZERO_CHECK.dir
