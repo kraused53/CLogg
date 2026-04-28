@@ -23,6 +23,9 @@ target_include_directories(
     $<INSTALL_INTERFACE:include>
 )
 
+# Give it a namespace
+add_library( clogg::clogg ALIAS clogg )
+
 # Need C++20 for <format>
 target_compile_features(CLogg PUBLIC cxx_std_20)
 
